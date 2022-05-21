@@ -1,0 +1,2 @@
+# golang-doc
+golang document
